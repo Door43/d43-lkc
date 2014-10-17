@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[lkc:home|Door43 (lkc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-lkc|d43-lkc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-lkc/archive/master.zip|d43-lkc.zip]]
+
+**Recent Changes**
+{{changes>ns = lkc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/lkc|Ethnologue data]]
+
